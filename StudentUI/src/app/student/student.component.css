@@ -1,0 +1,22 @@
+table{
+  width: 90%;
+  margin-right: 1rem;
+  margin-left: 3rem;
+  padding-left: 3rem;
+}
+
+.mt-1{
+  margin-bottom: 3rem;
+  margin-left: 3rem;
+}
+
+.searchbar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+}
+.searchbar > input:focus{
+  width: 500px;
+}
